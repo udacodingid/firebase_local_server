@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "86185759872",
+    "firebase_url": "https://firestoremahasiswa.firebaseio.com",
+    "project_id": "firestoremahasiswa",
+    "storage_bucket": "firestoremahasiswa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86185759872:android:feca6be5fa416429b1c265",
+        "android_client_info": {
+          "package_name": "com.daput.flutterfirebase.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-Y4mizdCix18Z0AEIl7TDwwRLIcqVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86185759872:android:ec01b18235b19d28b1c265",
+        "android_client_info": {
+          "package_name": "com.mobile.daput.foodappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-Y4mizdCix18Z0AEIl7TDwwRLIcqVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86185759872:android:9d4524c03f4ff83b",
+        "android_client_info": {
+          "package_name": "com.udacoding.daput.data_mahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-Y4mizdCix18Z0AEIl7TDwwRLIcqVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86185759872:android:5e266b331ae579e7b1c265",
+        "android_client_info": {
+          "package_name": "com.udacoding.food_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf-Y4mizdCix18Z0AEIl7TDwwRLIcqVrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86185759872-am9vqvdssdgh7gac6fm7tvud7ecl0kbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

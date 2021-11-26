@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/firebase_crud_database/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/firebase_crud_database/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/firebase_crud_database/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/malaundry_comsumen/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/malaundry_comsumen/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/malaundry_comsumen/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/widget_berdikari/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/widget_berdikari/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/widget_berdikari/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/chat_apps_sabtu_rijal/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/chat_apps_sabtu_rijal/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/chat_apps_sabtu_rijal/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/save_image_local/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/save_image_local/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/save_image_local/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/dsc_rijalllllll/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/dsc_rijalllllll/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/dsc_rijalllllll/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/login_provider/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/login_provider/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/login_provider/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_night2/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_night2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_night2/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/mapbox_direction/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/mapbox_direction/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/mapbox_direction/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/simple_firebase/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/simple_firebase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/simple_firebase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/akuPadamu/flutter_app/build" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+    <orderEntry type="library" name="Flutter Plugins" level="project" />
+    <orderEntry type="library" name="Dart Packages" level="project" />
+  </component>
+</module>
